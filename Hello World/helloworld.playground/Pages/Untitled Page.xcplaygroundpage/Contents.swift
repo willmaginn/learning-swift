@@ -10,3 +10,5 @@ var str = "Hello, playground"
 // Sources and resouces
 // only being compiled once per change
 // images can be added to the resouces folder
+
+//: [Next](@next)
