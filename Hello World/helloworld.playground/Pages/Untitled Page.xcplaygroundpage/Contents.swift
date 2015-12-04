@@ -6,6 +6,13 @@ import UIKit
 // Select -> View -> Utilies -> Show file inspector
 
 var str = "Hello, playground"
+// no need for semi-colon
+
+for i in 0..<64 {
+    var x = sin(Double(i) * 100)
+}
+
+
 
 // Sources and resouces
 // only being compiled once per change
